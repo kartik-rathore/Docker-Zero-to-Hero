@@ -10,3 +10,12 @@ Below are some of the most frequently used Docker commands along with their desc
 **Example:**
 ```bash
 docker pull ubuntu
+```
+### `docker pull`
+**Description:** Downloads an image from a registry.
+
+**Example:**
+```bash
+docker pull ubuntu
+```
+
